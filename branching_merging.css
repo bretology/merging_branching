@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    padding: 0px;
+}
+
+#container{
+    width: 550px;
+    height: 830px;
+    margin: 10px;
+    background-color: black;
+}
+
+    #intro{
+        color: white;
+        padding: 10px;
+    }
+
+    #pText{
+        color: white;
+        width: 525px;
+        height: 300px;
+        margin: 10px;
+        font-size: 14px;
+    }
+
+    .img{
+        margin: 15px;
+        padding-left: 8px;
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+        bottom: 115px;
+    }
